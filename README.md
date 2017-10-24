@@ -7,6 +7,8 @@
 
 jsVN is a lightweight javascript visual novel engine designed specifically for creating visual novels on tumblr! Create and share visual novels right on your blog. There is also a stand alone version.
 
+![](https://github.com/vnjson/jsvn.js/blob/master/tumblr.png)
+
 #### demos
 * [`Finding the One`](http://synokoria.tumblr.com/Finding_the_One) - synokoria
 * [`Food For Thought`](http://synokoria.tumblr.com/Food_For_Thought) - synokoria
